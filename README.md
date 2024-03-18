@@ -25,5 +25,10 @@ Here are some screenshots of the script in action:
 Before : https://ibb.co/tKM467f  
 After : https://ibb.co/nc56kVw 
 
+# **Note on Viewing Colored Text**
+BeautifyText uses the Colorama library to add color to text, which is visible when viewing the document in a terminal. 
+However, these colors may not be visible when opening the document in text editors like BlocNotes. 
+For the best experience,  view the colored text document in a terminal.
+
 # **Contributing**
 Contributions are welcome! Please feel free to submit a pull request.
