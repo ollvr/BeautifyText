@@ -19,7 +19,7 @@ Clone this repository to your local machine.
 Place your document in the same directory as the script.
 Enclose the titles and subtitles in your document with asterisks (*).
 To Test it in windows you can Run the following command:  
-type fileName.txt
+**type fileName.txt**
 You will see the result of new document in the terminal.
 Screenshots
 Here are some screenshots of the script in action:
