@@ -32,3 +32,8 @@ For the best experience,  view the colored text document in a terminal.
 
 # **Contributing**
 Contributions are welcome! Please feel free to submit a pull request.
+
+# Visit V2 : 
+if you want to see your text document transformed into a well formated html document
+visit V2 :
+https://github.com/ollvr/BeautifyTextV2
